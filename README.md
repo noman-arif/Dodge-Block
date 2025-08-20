@@ -1,0 +1,1 @@
+In Dodge Block, rows of blocks fall from above, leaving only one gap open. Your goal is to quickly move your player into the safe space and avoid getting crushed. Stay alive as long as you can, collect points, and survive through faster and trickier falling patterns.
